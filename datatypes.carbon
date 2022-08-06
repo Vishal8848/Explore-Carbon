@@ -1,4 +1,4 @@
-package sample api;
+package carbon api;
 
 fn Main() -> i32 {
 
